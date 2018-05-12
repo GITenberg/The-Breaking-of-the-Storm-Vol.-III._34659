@@ -1,0 +1,32 @@
+_repo: The-Breaking-of-the-Storm-Vol.-III._34659
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Stephenson, S. E. A. H.
+    gutenberg_agent_id: '37157'
+    url: http://www.gutenberg.org/2009/agents/37157
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spielhagen, Friedrich
+    birthdate: 1829
+    deathdate: 1911
+    gutenberg_agent_id: '37099'
+    url: http://www.gutenberg.org/2009/agents/37099
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_von_Spielhagen
+description: ''
+gutenberg_issued: '2010-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34659'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fiction'
+title: The Breaking of the Storm, Vol. III.
+url: http://www.gutenberg.org/ebooks/34659
